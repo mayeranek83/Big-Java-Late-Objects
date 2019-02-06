@@ -58,7 +58,7 @@ public class P5_21 {
         } else if (n == 2) {
             return one + one;
         } else if (n == 3) {
-            return one + one;
+            return one + one + one;
         } else if (n == 4) {
             return one + five;
         } else if (n == 5) {
